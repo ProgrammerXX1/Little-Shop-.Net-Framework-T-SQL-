@@ -1,5 +1,13 @@
 # Little-Shop-.Net-Framework-T-SQL-
 Need download pack DB and clone
+
+Admin Panel
+./Admin/Index
+Password:12345 Login:Admin
+
+Log
+./
+
 Run
 
 In the code, you will need to edit the connection string to change it to your own in web.config (near view)
